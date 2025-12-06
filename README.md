@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...TECH
 - 🌱 I’m currently persuing B TECH in GIET UNIVERSITY ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... uddhabdas2020@gmail.com
+- 📫 How to reach me ... mr.uddhabcharandas@gmail.com
 
 <!---
 uddhabdas/uddhabdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
