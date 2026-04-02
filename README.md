@@ -1,46 +1,53 @@
-<h1 align="center">Hi 👋, I'm Uddhab Das</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Uddhab Charan Das</h1>
+<h3 align="center">🚀 Backend Developer | Scalable Systems | Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in CSE (AI & ML) at GIET University
-* 💻 Passionate about building real-world web applications
-* 🌱 Currently learning **Java Backend Development & DSA**
-* 🚀 Improving my skills through projects and daily coding
+- 🎓 B.Tech in Computer Science (AI & ML), GIET University  
+- 💻 Backend-focused developer working on real-world applications  
+- ⚙️ Experience in building and optimizing backend systems  
+- 🚀 Currently working on a B2B E-commerce platform  
+- 📈 Interested in system design, scalability, and performance  
+
+---
+
+## 🧠 What I Do
+
+- 🔹 Backend Development & API Design  
+- 🔹 System Design & Scalable Architecture  
+- 🔹 Debugging & Problem Solving  
+- 🔹 Performance Optimization (Caching, Query Optimization)  
+- 🔹 Handling Concurrent Requests & Data Consistency  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: HTML, CSS, JavaScript, C (Basics)
-* ⚙️ Tools: Git, GitHub, VS Code
-* 🌐 Currently Exploring: Java, Backend Development
+- 💻 Languages: JavaScript (Node.js), Java (Learning)  
+- ⚙️ Backend: REST APIs, Express.js  
+- 🗄️ Database: MongoDB / SQL (Basics)  
+- ⚡ Performance: Caching, Load Optimization  
+- 📊 Monitoring: Grafana, Prometheus  
+- 🔧 Tools: Git, GitHub, Postman, VS Code  
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Project
 
-### 🔹 Portfolio Website
+### 🔹 B2B E-commerce Backend
 
-* Responsive personal portfolio website
-* Built using HTML & CSS
-* Clean UI and mobile-friendly design
-
----
-
-### 🔹 Landing Page Projects
-
-* Designed modern landing pages
-* Focus on layout, responsiveness & UI
-
----
-
-### 🔹 Internship Portfolio
-
-* Created during internship
-* Showcases basic development skills
+- Working on a real-world B2B platform  
+- Implemented:
+  - Product, SKU & Inventory Management  
+  - Cart & Order System  
+  - Payment & Delivery Workflows  
+  - Credit-based purchasing system  
+- Focus areas:
+  - Performance optimization  
+  - Scalable backend design  
+  - Handling real-world system challenges  
 
 ---
 
@@ -50,24 +57,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uddhabdas&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddhabdas&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Goals
 
-* 🔥 Become a strong **Full Stack Developer**
-* 💡 Build impactful real-world projects
-* 📚 Master Data Structures & Algorithms
+- 🔥 Become a strong Backend / Software Engineer  
+- 💡 Build scalable real-world systems  
+- 📚 Improve problem-solving and system design skills  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-* 📧 Email: [mr.uddhabcharandas@gmail.com](mailto:mr.uddhabcharandas@gmail.com)
+- 📧 mr.uddhabcharandas@gmail.com  
 
 ---
 
-⭐ *"Consistency beats talent. I show up every day to improve."*
+⭐ *"I don’t just build projects — I build systems."*
