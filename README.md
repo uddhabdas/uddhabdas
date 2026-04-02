@@ -1,53 +1,64 @@
 <h1 align="center">Hi 👋, I'm Uddhab Charan Das</h1>
-<h3 align="center">🚀 Backend Developer | Scalable Systems | Problem Solver</h3>
+<h3 align="center">🚀 Backend Engineer | Distributed Systems | Scalable Architecture</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science (AI & ML), GIET University  
-- 💻 Backend-focused developer working on real-world applications  
-- ⚙️ Experience in building and optimizing backend systems  
+- 💻 Backend Engineer focused on building production-ready systems  
+- ⚙️ Experience in designing scalable APIs and handling real-world system challenges  
 - 🚀 Currently working on a B2B E-commerce platform  
-- 📈 Interested in system design, scalability, and performance  
+- 📈 Interested in distributed systems, system design, and performance engineering  
 
 ---
 
-## 🧠 What I Do
+## 🧠 Core Expertise
 
-- 🔹 Backend Development & API Design  
-- 🔹 System Design & Scalable Architecture  
-- 🔹 Debugging & Problem Solving  
-- 🔹 Performance Optimization (Caching, Query Optimization)  
-- 🔹 Handling Concurrent Requests & Data Consistency  
+- 🔹 Backend Architecture & API Design  
+- 🔹 Scalable Systems & Horizontal Scaling  
+- 🔹 Concurrency Handling & Data Consistency  
+- 🔹 Database Optimization & Query Performance  
+- 🔹 Caching Strategies & Load Reduction  
+- 🔹 System Monitoring & Observability  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: JavaScript (Node.js), Java (Learning)  
-- ⚙️ Backend: REST APIs, Express.js  
-- 🗄️ Database: MongoDB / SQL (Basics)  
-- ⚡ Performance: Caching, Load Optimization  
+- 💻 Languages: JavaScript (Node.js), Java  
+- ⚙️ Backend: Express.js, Spring Boot  
+- 🗄️ Databases: MongoDB, SQL  
+- ⚡ Performance: Caching, Rate Limiting, Load Optimization  
 - 📊 Monitoring: Grafana, Prometheus  
-- 🔧 Tools: Git, GitHub, Postman, VS Code  
+- 🔧 Tools: Git, Postman, VS Code  
 
 ---
 
-## 🚀 Key Project
+## 🚀 Key Work
 
-### 🔹 B2B E-commerce Backend
+### 🔹 B2B E-commerce Backend System
 
-- Working on a real-world B2B platform  
-- Implemented:
-  - Product, SKU & Inventory Management  
-  - Cart & Order System  
-  - Payment & Delivery Workflows  
+- Working on a real-world system handling business workflows  
+- Designed and implemented:
+  - Product, SKU & Inventory Management System  
+  - Cart & Order Processing Workflow  
+  - Payment & Delivery Integration  
   - Credit-based purchasing system  
-- Focus areas:
+- Engineering Focus:
+  - Scalable architecture design  
   - Performance optimization  
-  - Scalable backend design  
-  - Handling real-world system challenges  
+  - Handling concurrent requests  
+  - Ensuring data consistency  
+
+---
+
+## 📊 Engineering Mindset
+
+- ⚡ Focus on solving real-world system problems  
+- 🔍 Strong debugging and root cause analysis approach  
+- 📈 Continuous optimization of performance and reliability  
+- 🧠 Thinking in terms of systems, not just features  
 
 ---
 
@@ -61,9 +72,9 @@
 
 ## 🎯 Goals
 
-- 🔥 Become a strong Backend / Software Engineer  
-- 💡 Build scalable real-world systems  
-- 📚 Improve problem-solving and system design skills  
+- 🔥 Become a strong Backend / System Engineer  
+- 💡 Build scalable, distributed systems  
+- 📚 Master system design and high-performance architectures  
 
 ---
 
@@ -73,4 +84,4 @@
 
 ---
 
-⭐ *"I don’t just build projects — I build systems."*
+⭐ *"I don’t just write code — I design systems."*
