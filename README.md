@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Uddhab Charan Das</h1>
-<h3 align="center">🚀 Backend Engineer | Distributed Systems | Scalable Architecture</h3>
+<h3 align="center">🚀 Backend Engineer | Scalable Systems | Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science (AI & ML), GIET University  
-- 💻 Backend Engineer focused on building production-ready systems  
-- ⚙️ Experience in designing scalable APIs and handling real-world system challenges  
-- 🚀 Currently working on a B2B E-commerce platform  
-- 📈 Interested in distributed systems, system design, and performance engineering  
+- 💻 Backend-focused developer working on real-world applications  
+- ⚙️ Experience in building scalable systems and handling production-like workloads  
+- 🚀 Worked on multiple platforms across E-commerce, EdTech, and Food Ordering domains  
+- 📈 Interested in system design, distributed systems, and performance engineering  
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 What I Do
 
-- 🔹 Backend Architecture & API Design  
-- 🔹 Scalable Systems & Horizontal Scaling  
-- 🔹 Concurrency Handling & Data Consistency  
-- 🔹 Database Optimization & Query Performance  
-- 🔹 Caching Strategies & Load Reduction  
-- 🔹 System Monitoring & Observability  
+- 🔹 Backend Development & API Design  
+- 🔹 Scalable System Architecture  
+- 🔹 Debugging & Root Cause Analysis  
+- 🔹 Handling Concurrent Requests & Data Consistency  
+- 🔹 Performance Optimization (Caching, Query Optimization)  
+- 🔹 Monitoring & Observability  
 
 ---
 
@@ -35,30 +35,36 @@
 
 ---
 
-## 🚀 Key Work
+## 🚀 Featured Work
 
-### 🔹 B2B E-commerce Backend System
-
-- Working on a real-world system handling business workflows  
-- Designed and implemented:
-  - Product, SKU & Inventory Management System  
-  - Cart & Order Processing Workflow  
-  - Payment & Delivery Integration  
-  - Credit-based purchasing system  
-- Engineering Focus:
-  - Scalable architecture design  
-  - Performance optimization  
-  - Handling concurrent requests  
-  - Ensuring data consistency  
+### 🔹 B2B E-commerce Backend
+- SKU-based architecture with inventory at variant level  
+- Cart, order, payment, and delivery workflows  
+- Credit-based purchasing system  
+- Focus on scalability, performance, and real-world challenges  
 
 ---
 
-## 📊 Engineering Mindset
+### 🔹 Learnexia (EdTech Platform)
+- Backend system for courses, users, and authentication  
+- Handles multiple users with optimized performance  
+- Designed APIs and system flows for real usage  
+
+---
+
+### 🔹 SatvicTaste (Food Ordering System)
+- Zomato-like backend system  
+- Menu, order, and delivery management  
+- Focus on reliability and real-time data handling  
+
+---
+
+## ⚙️ Engineering Mindset
 
 - ⚡ Focus on solving real-world system problems  
-- 🔍 Strong debugging and root cause analysis approach  
-- 📈 Continuous optimization of performance and reliability  
-- 🧠 Thinking in terms of systems, not just features  
+- 🔍 Strong debugging and analytical thinking  
+- 📈 Continuous improvement in performance and scalability  
+- 🧠 Think in terms of systems, not just features  
 
 ---
 
